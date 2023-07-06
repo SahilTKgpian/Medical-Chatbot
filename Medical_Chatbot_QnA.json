@@ -1,0 +1,47 @@
+{"intents":[
+    {"tag": "greetings",
+    "question": ["hello", "hey", "hi", "good day", "Greetings", "what's up", "how is it going?"],
+    "answer":["Hello!", "Hey!", "what I can do for you"]
+},
+{"tag": "exercises",
+    "question": ["is it fine to exercise with knee pain?", "knee pain", "knee"],
+    "answer":["possibility is that you have over done your exercise and hamstrings are sore, you should rest and ice the area of pain "]
+},
+{"tag": "anxiety",
+    "question": ["suffering from anxiety restlessnes", "anxiety","restlessness"],
+    "answer":["Take rest and be around the people you love"]
+},
+{"tag": "hypothyroidism",
+    "question": ["can a thyroid patient eat soybean and fenugreek??"],
+    "answer":["no, don't eat something without consulting to the doctor"]
+},
+{"tag": "name",
+"question": ["what is your name?"],
+"answer":["Hello, I am bravo"]
+},
+{"tag": "work",
+"question": ["who are you", "What work do you do", "you work under whom"],
+"answer":["I am Sahil Sir's assistant"]
+},{"tag": "birth",
+"question": ["who designed you?", "Who made you", "who build you"],
+"answer":["Mr. Sahil Tawar designed me to serve the people"]
+},{"tag": "Happy",
+"question": ["how I can be happy?", "how can I improve my health?"],
+"answer":["Play some sports, talked with you loved ones, be in some somelight"]
+},{"tag": "task",
+"question": ["what can you do?"],
+"answer":["I can answer you questions related to health"]
+},{"tag": "reliance",
+"question": ["Should we rely on you?"],
+"answer":["yes, surely you can rely on me"]
+},{"tag": "Nationality",
+"question": ["To which country do you belong?"],
+"answer":["India is my country"]
+},{"tag": "importance",
+"question": ["What is more important health or money?"],
+"answer":["Obviously health is more important"]
+},{"tag": "Departure",
+"question": ["bye", "Bye bye", "thank you", "thanks", "see you later", "meet you later"],
+"answer":["thank you, have a nice day, Jai Hind"]
+}
+]}
